@@ -1,0 +1,8 @@
+title: "Farmacia Lorca IA — Demo (Streamlit)"
+emoji: "💊"
+colorFrom: "indigo"
+colorTo: "blue"
+sdk: "streamlit"
+sdk_version: "1.37.1"
+app_file: "app.py"
+pinned: false

@@ -1,9 +1,17 @@
 
-# 💊 Farmacia Lorca IA — Demo (Hugging Face Space)
+# 💊 Lorca Pilot — Farmacia IA (Hugging Face Space)
 
-Demo pública de **Farmacia Lorca IA** basada en **Streamlit**, con **datos simulados** y sin conexión a ninguna base de datos real.
+Demo pública de **Lorca Pilot**, el copiloto de IA de Farmacia Lorca, basada en **Streamlit**, con **datos simulados** y sin conexión a ninguna base de datos real.
 
 > Ideal para compartir con compañeros o evaluar el flujo de trabajo sin tocar tu SQL Server / Farmatic.
+
+## Secciones de la app
+
+- **📋 Resumen** — centro de control con recomendación del día, métricas operativas, gráfico de rotación de productos y prioridades ordenadas por riesgo.
+- **🔮 Predicciones** — tabla de riesgo de rotura filtrable por nivel, con confianza del modelo y recomendación de pedido.
+- **📦 Inventario** — búsqueda de productos, totales de stock y valoración económica a PVP.
+- **🚨 Faltas** — histórico de incidencias de suministro enriquecido con el nombre del producto.
+- **🤖 Asistente IA** — copiloto conversacional simple que responde sobre stock y riesgo a partir de los datos de la demo.
 
 ---
 
